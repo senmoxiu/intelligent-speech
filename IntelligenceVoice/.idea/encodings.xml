@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/EditPassword.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/QueryScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/StudentMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/TeacherMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/course/AddMember.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/course/DeleteCoursePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/course/EditStudentPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/course/QueryStudentPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/iflytek/view/VoiceSpeech.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
